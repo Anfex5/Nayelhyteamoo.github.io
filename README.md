@@ -1,4 +1,4 @@
-echo "# Nayelhyteamo.github.io" >> README.md
+echo "# Nayelhyteamoo.github.io" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
